@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+ortools
+numpy
+pandas
+scikit-learn
+sqlalchemy
+pydantic
+streamlit
+folium
+streamlit-folium
+requests
+dimod
