@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quantum Path Planner — Starter Project
 
 This is an MVP implementation of the Quantum Path Planner (QPP). It includes:
@@ -18,3 +19,7 @@ This is an MVP implementation of the Quantum Path Planner (QPP). It includes:
    - GET /jobs/{job_id}
 
 See `app/` for code files.
+=======
+# QuantumFleet
+###AVQH
+>>>>>>> feed1386bd4676b2802f41c5e1e02eb2fc2789fb
